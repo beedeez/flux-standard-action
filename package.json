@@ -4,7 +4,7 @@
   "description": "A human-friendly standard for Flux action objects",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
-  "files": [
+  "directories": [
     "./lib"
   ],
   "scripts": {
